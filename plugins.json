@@ -9,6 +9,6 @@
     "iconUrl": "https://raw.githubusercontent.com/LiuTengYing/help-plugins/main/icons/ai-assistant.png",
     "packageName": "com.example.aiassistant",
     "size": "337MB",
-    "changelog": "v1.0.1\n- Added voice response on/off switch\n- Fixed CarPlay voice command recognition\n- Improved voice command handling\n- Added force update feature"
+    "changelog": "v1.0.1\n- Added in-app auto update\n- Added voice response on/off switch\n- Fixed CarPlay voice command recognition"
   }
 ]
