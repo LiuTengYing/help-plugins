@@ -9,6 +9,7 @@
     "iconUrl": "https://raw.githubusercontent.com/LiuTengYing/help-plugins/main/icons/ai-assistant.png",
     "packageName": "com.example.aiassistant",
     "size": "337MB",
-    "changelog": "v1.0.0\n- Initial release\n- Voice wake word detection\n- AI chat with DeepSeek\n- Text-to-speech response"
+    "changelog": "v1.0.0\n- Initial release\n- Voice wake word detection\n- AI chat \n- Text-to-speech response"
   }
 ]
+
