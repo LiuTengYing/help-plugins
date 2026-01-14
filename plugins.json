@@ -10,5 +10,17 @@
     "packageName": "com.example.aiassistant",
     "size": "337MB",
     "changelog": "v1.0.0\n- Voice-activated AI assistant for car infotainment\n- Hands-free voice commands: Open apps, control music, navigation\n- Online AI chat for smart responses\n- Custom wake word support\n- Floating assistant icon for quick access\n- Offline voice recognition"
+  },
+  {
+    "id": "offline-tts",
+    "name": "Offline TTS Engine",
+    "description": "High-quality offline text-to-speech engine with 904 voice options. Works as a TTS plugin for AI Assistant.",
+    "version": "1.0.0",
+    "versionCode": 1,
+    "downloadUrl": "https://github.com/LiuTengYing/help-plugins/releases/download/v1.0.0/offline-tts-1.0.0.apk",
+    "iconUrl": "https://raw.githubusercontent.com/LiuTengYing/help-plugins/main/icons/offline-tts.png",
+    "packageName": "com.example.offlinetts",
+    "size": "117MB",
+    "changelog": "v1.0.0\n- Sherpa-ONNX based offline TTS engine\n- 904 different voice options\n- No internet required\n- Integrates with AI Assistant settings\n- High-quality English voice synthesis"
   }
 ]
